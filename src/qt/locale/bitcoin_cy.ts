@@ -114,8 +114,8 @@
         <translation>Newid y cyfrinymadrodd a ddefnyddiwyd ar gyfer amgryptio'r waled</translation>
     </message>
     <message>
-        <source>Rtidcoin</source>
-        <translation>Rtidcoin</translation>
+        <source>Zalcchain</source>
+        <translation>Zalcchain</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -484,8 +484,8 @@
         <translation>Opsiynau:</translation>
     </message>
     <message>
-        <source>Rtidcoin Core</source>
-        <translation>Craidd Rtidcoin</translation>
+        <source>Zalcchain Core</source>
+        <translation>Craidd Zalcchain</translation>
     </message>
     <message>
         <source>Information</source>

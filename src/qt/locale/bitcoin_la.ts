@@ -114,8 +114,8 @@
         <translation>Recreans indicem frustorum in disco...</translation>
     </message>
     <message>
-        <source>Send coins to a Rtidcoin address</source>
-        <translation>Mitte nummos ad inscriptionem Rtidcoin</translation>
+        <source>Send coins to a Zalcchain address</source>
+        <translation>Mitte nummos ad inscriptionem Zalcchain</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -138,8 +138,8 @@
         <translation>&amp;Verifica nuntium...</translation>
     </message>
     <message>
-        <source>Rtidcoin</source>
-        <translation>Rtidcoin</translation>
+        <source>Zalcchain</source>
+        <translation>Zalcchain</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -166,12 +166,12 @@
         <translation>Cifra claves privatas quae cassidili tui sunt</translation>
     </message>
     <message>
-        <source>Sign messages with your Rtidcoin addresses to prove you own them</source>
-        <translation>Signa nuntios cum tuis inscriptionibus Rtidcoin ut demonstres te eas possidere</translation>
+        <source>Sign messages with your Zalcchain addresses to prove you own them</source>
+        <translation>Signa nuntios cum tuis inscriptionibus Zalcchain ut demonstres te eas possidere</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Rtidcoin addresses</source>
-        <translation>Verifica nuntios ut certus sis eos signatos esse cum specificatis inscriptionibus Rtidcoin</translation>
+        <source>Verify messages to ensure they were signed with specified Zalcchain addresses</source>
+        <translation>Verifica nuntios ut certus sis eos signatos esse cum specificatis inscriptionibus Zalcchain</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -346,8 +346,8 @@
         <translation>Cassidile</translation>
     </message>
     <message>
-        <source>Automatically open the Rtidcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Aperi per se portam clientis Rtidcoin in itineratore.  Hoc tantum effectivum est si itineratrum tuum supportat UPnP et id activum est.</translation>
+        <source>Automatically open the Zalcchain client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Aperi per se portam clientis Zalcchain in itineratore.  Hoc tantum effectivum est si itineratrum tuum supportat UPnP et id activum est.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -425,8 +425,8 @@
         <translation>Schema</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Rtidcoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Monstrata informatio fortasse non recentissima est.  Tuum cassidile per se synchronizat cum rete Rtidcoin postquam conexio constabilita est, sed hoc actio nondum perfecta est.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Zalcchain network after a connection is established, but this process has not completed yet.</source>
+        <translation>Monstrata informatio fortasse non recentissima est.  Tuum cassidile per se synchronizat cum rete Zalcchain postquam conexio constabilita est, sed hoc actio nondum perfecta est.</translation>
     </message>
     <message>
         <source>Immature:</source>
@@ -671,8 +671,8 @@
         <translation>Copia signationem in latibulum systematis</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Rtidcoin address</source>
-        <translation>Signa nuntium ut demonstres hanc inscriptionem Rtidcoin a te possessa esse</translation>
+        <source>Sign the message to prove you own this Zalcchain address</source>
+        <translation>Signa nuntium ut demonstres hanc inscriptionem Zalcchain a te possessa esse</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -691,8 +691,8 @@
         <translation>&amp;Verifica Nuntium</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Rtidcoin address</source>
-        <translation>Verifica nuntium ut cures signatum esse cum specifica inscriptione Rtidcoin</translation>
+        <source>Verify the message to ensure it was signed with the specified Zalcchain address</source>
+        <translation>Verifica nuntium ut cures signatum esse cum specifica inscriptione Zalcchain</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -768,8 +768,8 @@
         <translation>Operare infere sicut daemon et mandata accipe</translation>
     </message>
     <message>
-        <source>Rtidcoin Core</source>
-        <translation>Rtidcoin Nucleus</translation>
+        <source>Zalcchain Core</source>
+        <translation>Zalcchain Nucleus</translation>
     </message>
     <message>
         <source>Bind to given address and always listen on it. Use [host]:port notation for IPv6</source>

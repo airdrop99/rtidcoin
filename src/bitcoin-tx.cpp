@@ -54,10 +54,10 @@ static int AppInitRawTx(int argc, char* argv[])
     if (argc<2 || IsArgSet("-?") || IsArgSet("-h") || IsArgSet("-help"))
     {
         // First part of help message is specific to this utility
-        std::string strUsage = strprintf(_("%s rtidcoin-tx utility version"), _(PACKAGE_NAME)) + " " + FormatFullVersion() + "\n\n" +
+        std::string strUsage = strprintf(_("%s zalcchain-tx utility version"), _(PACKAGE_NAME)) + " " + FormatFullVersion() + "\n\n" +
             _("Usage:") + "\n" +
-              "  rtidcoin-tx [options] <hex-tx> [commands]  " + _("Update hex-encoded rtidcoin transaction") + "\n" +
-              "  rtidcoin-tx [options] -create [commands]   " + _("Create hex-encoded rtidcoin transaction") + "\n" +
+              "  zalcchain-tx [options] <hex-tx> [commands]  " + _("Update hex-encoded zalcchain transaction") + "\n" +
+              "  zalcchain-tx [options] -create [commands]   " + _("Create hex-encoded zalcchain transaction") + "\n" +
               "\n";
 
         fprintf(stdout, "%s", strUsage.c_str());

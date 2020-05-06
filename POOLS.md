@@ -1,10 +1,10 @@
-# List of Rtidcoin mining pools
+# List of Zalcchain mining pools
 
 Pool address | Description
 ------------ | -----------
-http://pool.rtidcoin.net | **Official (recommended)**
+http://pool.zalcchain.net | **Official (recommended)**
 https://qpool.info
-http://rtidcoin-pool.ml
+http://zalcchain-pool.ml
 https://www.lycheebit.com
 http://hashpool.eu 
 http://eli-pool.ga
@@ -13,4 +13,4 @@ http://cpu-pool.com
 http://happysensor.xyz
 http://cpumining.zapto.org
 
-If you'd like us to list your Rtidcoin pool here, please [contact Rtidcoin developers team](./README.md#contact-info-and-links).
+If you'd like us to list your Zalcchain pool here, please [contact Zalcchain developers team](./README.md#contact-info-and-links).

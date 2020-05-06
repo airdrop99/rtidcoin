@@ -13,7 +13,7 @@
 - (NSString *)__bundleIdentifier
 {
     if (self == [NSBundle mainBundle]) {
-        return @"org.rtidcoin.Rtidcoin-Qt";
+        return @"org.zalcchain.Zalcchain-Qt";
     } else {
         return [self __bundleIdentifier];
     }

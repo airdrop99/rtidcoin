@@ -29,16 +29,16 @@
   <string>????</string>
 
   <key>CFBundleExecutable</key>
-  <string>Rtidcoin-Qt</string>
+  <string>Zalcchain-Qt</string>
   
   <key>CFBundleName</key>
-  <string>Rtidcoin-Qt</string>
+  <string>Zalcchain-Qt</string>
 
   <key>LSHasLocalizedDisplayName</key>
   <true/>
 
   <key>CFBundleIdentifier</key>
-  <string>org.rtidcoin.Rtidcoin-Qt</string>
+  <string>org.zalcchain.Zalcchain-Qt</string>
 
   <key>CFBundleURLTypes</key>
   <array>
@@ -46,10 +46,10 @@
       <key>CFBundleTypeRole</key>
       <string>Editor</string>
       <key>CFBundleURLName</key>
-      <string>org.rtidcoin.RtidcoinPayment</string>
+      <string>org.zalcchain.ZalcchainPayment</string>
       <key>CFBundleURLSchemes</key>
       <array>
-        <string>rtidcoin</string>
+        <string>zalcchain</string>
       </array>
     </dict>
   </array>
@@ -58,9 +58,9 @@
   <array>
     <dict>
       <key>UTTypeIdentifier</key>
-      <string>org.rtidcoin.paymentrequest</string>
+      <string>org.zalcchain.paymentrequest</string>
       <key>UTTypeDescription</key>
-      <string>Rtidcoin payment request</string>
+      <string>Zalcchain payment request</string>
       <key>UTTypeConformsTo</key>
       <array>
         <string>public.data</string>
@@ -68,10 +68,10 @@
       <key>UTTypeTagSpecification</key>
       <dict>
         <key>public.mime-type</key>
-        <string>application/x-rtidcoin-payment-request</string>
+        <string>application/x-zalcchain-payment-request</string>
         <key>public.filename-extension</key>
         <array>
-          <string>rtidcoinpaymentrequest</string>
+          <string>zalcchainpaymentrequest</string>
         </array>
       </dict>
     </dict>
@@ -84,7 +84,7 @@
       <string>Editor</string>
       <key>LSItemContentTypes</key>
       <array>
-        <string>org.rtidcoin.paymentrequest</string>
+        <string>org.zalcchain.paymentrequest</string>
       </array>
       <key>LSHandlerRank</key>
       <string>Owner</string>

@@ -1,41 +1,41 @@
-Rtidcoin Core 0.14.2
+Zalcchain Core 0.14.2
 =====================
 
 Setup
 ---------------------
-Rtidcoin Core is the original Rtidcoin client and it builds the backbone of the network. However, it downloads and stores the entire history of Rtidcoin transactions (which is currently several GBs); depending on the speed of your computer and network connection, the synchronization process can take anywhere from a few hours to a day or more.
+Zalcchain Core is the original Zalcchain client and it builds the backbone of the network. However, it downloads and stores the entire history of Zalcchain transactions (which is currently several GBs); depending on the speed of your computer and network connection, the synchronization process can take anywhere from a few hours to a day or more.
 
-To download Rtidcoin Core, visit [rtidcoin.org](https://rtidcoin.org).
+To download Zalcchain Core, visit [zalcchain.org](https://zalcchain.org).
 
 Running
 ---------------------
-The following are some helpful notes on how to run Rtidcoin on your native platform.
+The following are some helpful notes on how to run Zalcchain on your native platform.
 
 ### Unix
 
 Unpack the files into a directory and run:
 
-- `bin/rtidcoin-qt` (GUI) or
-- `bin/rtidcoind` (headless)
+- `bin/zalcchain-qt` (GUI) or
+- `bin/zalcchaind` (headless)
 
 ### Windows
 
-Unpack the files into a directory, and then run rtidcoin-qt.exe.
+Unpack the files into a directory, and then run zalcchain-qt.exe.
 
 ### OS X
 
-Drag Rtidcoin-Core to your applications folder, and then run Rtidcoin-Core.
+Drag Zalcchain-Core to your applications folder, and then run Zalcchain-Core.
 
 ### Need Help?
 
-* See the documentation at the [Rtidcoin Wiki](https://rtidcoin.info/)
+* See the documentation at the [Zalcchain Wiki](https://zalcchain.info/)
 for help and more information.
-* Ask for help on [#rtidcoin](http://webchat.freenode.net?channels=rtidcoin) on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net?channels=rtidcoin).
-* Ask for help on the [RtidcoinTalk](https://rtidcointalk.io/) forums.
+* Ask for help on [#zalcchain](http://webchat.freenode.net?channels=zalcchain) on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net?channels=zalcchain).
+* Ask for help on the [ZalcchainTalk](https://zalcchaintalk.io/) forums.
 
 Building
 ---------------------
-The following are developer notes on how to build Rtidcoin on your native platform. They are not complete guides, but include notes on the necessary libraries, compile flags, etc.
+The following are developer notes on how to build Zalcchain on your native platform. They are not complete guides, but include notes on the necessary libraries, compile flags, etc.
 
 - [OS X Build Notes](build-osx.md)
 - [Unix Build Notes](build-unix.md)
@@ -45,12 +45,12 @@ The following are developer notes on how to build Rtidcoin on your native platfo
 
 Development
 ---------------------
-The Rtidcoin repo's [root README](/README.md) contains relevant information on the development process and automated testing.
+The Zalcchain repo's [root README](/README.md) contains relevant information on the development process and automated testing.
 
 - [Developer Notes](developer-notes.md)
 - [Release Notes](release-notes.md)
 - [Release Process](release-process.md)
-- [Source Code Documentation (External Link)](https://dev.visucore.com/rtidcoin/doxygen/)
+- [Source Code Documentation (External Link)](https://dev.visucore.com/zalcchain/doxygen/)
 - [Translation Process](translation_process.md)
 - [Translation Strings Policy](translation_strings_policy.md)
 - [Travis CI](travis-ci.md)
@@ -61,8 +61,8 @@ The Rtidcoin repo's [root README](/README.md) contains relevant information on t
 - [Benchmarking](benchmarking.md)
 
 ### Resources
-* Discuss on the [RtidcoinTalk](https://rtidcointalk.io/) forums.
-* Discuss general Rtidcoin development on #rtidcoin-dev on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net/?channels=rtidcoin-dev).
+* Discuss on the [ZalcchainTalk](https://zalcchaintalk.io/) forums.
+* Discuss general Zalcchain development on #zalcchain-dev on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net/?channels=zalcchain-dev).
 
 ### Miscellaneous
 - [Assets Attribution](assets-attribution.md)

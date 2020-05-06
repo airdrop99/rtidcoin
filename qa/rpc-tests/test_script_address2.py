@@ -4,7 +4,7 @@
 # file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
 #
-# Test new Rtidcoin multisig prefix functionality.
+# Test new Zalcchain multisig prefix functionality.
 #
 
 from test_framework.test_framework import BitcoinTestFramework

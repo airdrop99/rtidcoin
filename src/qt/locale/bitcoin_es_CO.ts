@@ -126,8 +126,8 @@
         <translation>Abrir &amp;URL...</translation>
     </message>
     <message>
-        <source>Send coins to a Rtidcoin address</source>
-        <translation>Enviando monedas a una dirección de Rtidcoin</translation>
+        <source>Send coins to a Zalcchain address</source>
+        <translation>Enviando monedas a una dirección de Zalcchain</translation>
     </message>
     <message>
         <source>Change the passphrase used for wallet encryption</source>
@@ -146,8 +146,8 @@
         <translation>&amp;Verificar Mensaje...</translation>
     </message>
     <message>
-        <source>Rtidcoin</source>
-        <translation>Rtidcoin</translation>
+        <source>Zalcchain</source>
+        <translation>Zalcchain</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -296,8 +296,8 @@
 <context>
     <name>bitcoin-core</name>
     <message>
-        <source>Rtidcoin Core</source>
-        <translation>Rtidcoin Core</translation>
+        <source>Zalcchain Core</source>
+        <translation>Zalcchain Core</translation>
     </message>
     <message>
         <source>Insufficient funds</source>

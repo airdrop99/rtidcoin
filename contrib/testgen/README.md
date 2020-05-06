@@ -1,6 +1,6 @@
 ### TestGen ###
 
-Utilities to generate test vectors for the data-driven Rtidcoin tests.
+Utilities to generate test vectors for the data-driven Zalcchain tests.
 
 Usage: 
 

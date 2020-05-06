@@ -62,7 +62,7 @@
         <translation>آدرس های گیرنده</translation>
     </message>
     <message>
-        <source>These are your Rtidcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <source>These are your Zalcchain addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
         <translation>اینها آدرس های شما برای فرستادن پرداخت هاست. همیشه قبل از فرستادن سکه ها مقدار و آدرس دریافت کننده را چک کنید.</translation>
     </message>
     <message>
@@ -298,8 +298,8 @@
         <translation>بازنشانی بلوک‌ها روی دیسک...</translation>
     </message>
     <message>
-        <source>Send coins to a Rtidcoin address</source>
-        <translation>ارسال وجه به نشانی Rtidcoin</translation>
+        <source>Send coins to a Zalcchain address</source>
+        <translation>ارسال وجه به نشانی Zalcchain</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -322,8 +322,8 @@
         <translation>با&amp;زبینی پیام...</translation>
     </message>
     <message>
-        <source>Rtidcoin</source>
-        <translation>Rtidcoin</translation>
+        <source>Zalcchain</source>
+        <translation>Zalcchain</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -350,12 +350,12 @@
         <translation>رمزنگاری کلیدهای خصوصی متعلق به کیف پول شما</translation>
     </message>
     <message>
-        <source>Sign messages with your Rtidcoin addresses to prove you own them</source>
-        <translation>برای اثبات اینکه پیام‌ها به شما تعلق دارند، آن‌ها را با نشانی Rtidcoin خود امضا کنید</translation>
+        <source>Sign messages with your Zalcchain addresses to prove you own them</source>
+        <translation>برای اثبات اینکه پیام‌ها به شما تعلق دارند، آن‌ها را با نشانی Zalcchain خود امضا کنید</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Rtidcoin addresses</source>
-        <translation>برای حصول اطمینان از اینکه پیام با نشانی Rtidcoin مشخص شده امضا است یا خیر، پیام را شناسایی کنید</translation>
+        <source>Verify messages to ensure they were signed with specified Zalcchain addresses</source>
+        <translation>برای حصول اطمینان از اینکه پیام با نشانی Zalcchain مشخص شده امضا است یا خیر، پیام را شناسایی کنید</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -374,8 +374,8 @@
         <translation>نوارابزار برگه‌ها</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and rtidcoin: URIs)</source>
-        <translation>درخواست پرداخت ( تولید کد کیوار و ادرس rtidcoin)</translation>
+        <source>Request payments (generates QR codes and zalcchain: URIs)</source>
+        <translation>درخواست پرداخت ( تولید کد کیوار و ادرس zalcchain)</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -386,16 +386,16 @@
         <translation>نمایش لیست آدرس های دریافت و لیبل ها</translation>
     </message>
     <message>
-        <source>Open a rtidcoin: URI or payment request</source>
-        <translation>بازکردن یک rtidcoin: آدرس یا درخواست پرداخت</translation>
+        <source>Open a zalcchain: URI or payment request</source>
+        <translation>بازکردن یک zalcchain: آدرس یا درخواست پرداخت</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
         <translation>گزینه‌های خط‌فرمان</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Rtidcoin network</source>
-        <translation><numerusform>%n ارتباط فعال با شبکهٔ Rtidcoin</numerusform></translation>
+        <source>%n active connection(s) to Zalcchain network</source>
+        <translation><numerusform>%n ارتباط فعال با شبکهٔ Zalcchain</numerusform></translation>
     </message>
     <message>
         <source>Processing blocks on disk...</source>
@@ -642,8 +642,8 @@
         <translation>ویرایش آدرس قرستنده</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Rtidcoin address.</source>
-        <translation>نشانی وارد شده "%1" یک نشانی معتبر Rtidcoin نیست.</translation>
+        <source>The entered address "%1" is not a valid Zalcchain address.</source>
+        <translation>نشانی وارد شده "%1" یک نشانی معتبر Zalcchain نیست.</translation>
     </message>
     <message>
         <source>The entered address "%1" is already in the address book.</source>
@@ -852,8 +852,8 @@
         <translation>استخراج</translation>
     </message>
     <message>
-        <source>Automatically open the Rtidcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>باز کردن خودکار درگاه شبکهٔ Rtidcoin روی روترها. تنها زمانی کار می‌کند که روتر از پروتکل UPnP پشتیبانی کند و این پروتکل فعال باشد.</translation>
+        <source>Automatically open the Zalcchain client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>باز کردن خودکار درگاه شبکهٔ Zalcchain روی روترها. تنها زمانی کار می‌کند که روتر از پروتکل UPnP پشتیبانی کند و این پروتکل فعال باشد.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -951,8 +951,8 @@
         <translation>فرم</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Rtidcoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>اطلاعات نمایش‌داده شده ممکن است قدیمی باشند. بعد از این که یک اتصال با شبکه برقرار شد، کیف پول شما به‌صورت خودکار با شبکهٔ Rtidcoin همگام‌سازی می‌شود. اما این روند هنوز کامل نشده است.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Zalcchain network after a connection is established, but this process has not completed yet.</source>
+        <translation>اطلاعات نمایش‌داده شده ممکن است قدیمی باشند. بعد از این که یک اتصال با شبکه برقرار شد، کیف پول شما به‌صورت خودکار با شبکهٔ Zalcchain همگام‌سازی می‌شود. اما این روند هنوز کامل نشده است.</translation>
     </message>
     <message>
         <source>Available:</source>
@@ -1016,8 +1016,8 @@
         <translation>مبلغ</translation>
     </message>
     <message>
-        <source>Enter a Rtidcoin address (e.g. %1)</source>
-        <translation>یک آدرس Rtidcoin وارد کنید (مثلاً %1)</translation>
+        <source>Enter a Zalcchain address (e.g. %1)</source>
+        <translation>یک آدرس Zalcchain وارد کنید (مثلاً %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -1476,8 +1476,8 @@
         <translation>این یک پرداخت عادی است</translation>
     </message>
     <message>
-        <source>The Rtidcoin address to send the payment to</source>
-        <translation>نشانی Rtidcoin برای ارسال پرداخت به آن</translation>
+        <source>The Zalcchain address to send the payment to</source>
+        <translation>نشانی Zalcchain برای ارسال پرداخت به آن</translation>
     </message>
     <message>
         <source>Alt+A</source>
@@ -1529,8 +1529,8 @@
         <translation>ا&amp;مضای پیام</translation>
     </message>
     <message>
-        <source>The Rtidcoin address to sign the message with</source>
-        <translation>نشانی Rtidcoin برای امضاء پیغام با آن</translation>
+        <source>The Zalcchain address to sign the message with</source>
+        <translation>نشانی Zalcchain برای امضاء پیغام با آن</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -1561,7 +1561,7 @@
         <translation>امضای فعلی را به حافظهٔ سیستم کپی کن</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Rtidcoin address</source>
+        <source>Sign the message to prove you own this Zalcchain address</source>
         <translation>برای اثبات تعلق این نشانی به شما، پیام را امضا کنید</translation>
     </message>
     <message>
@@ -1581,12 +1581,12 @@
         <translation>&amp;شناسایی پیام</translation>
     </message>
     <message>
-        <source>The Rtidcoin address the message was signed with</source>
-        <translation>نشانی Rtidcoin که پیغام با آن امضاء شده</translation>
+        <source>The Zalcchain address the message was signed with</source>
+        <translation>نشانی Zalcchain که پیغام با آن امضاء شده</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Rtidcoin address</source>
-        <translation>برای حصول اطمینان از اینکه پیام با نشانی Rtidcoin مشخص شده امضا است یا خیر، پیام را شناسایی کنید</translation>
+        <source>Verify the message to ensure it was signed with the specified Zalcchain address</source>
+        <translation>برای حصول اطمینان از اینکه پیام با نشانی Zalcchain مشخص شده امضا است یا خیر، پیام را شناسایی کنید</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -1702,8 +1702,8 @@
         <translation>اجرا در پشت زمینه به‌صورت یک سرویس و پذیرش دستورات</translation>
     </message>
     <message>
-        <source>Rtidcoin Core</source>
-        <translation> هسته Rtidcoin </translation>
+        <source>Zalcchain Core</source>
+        <translation> هسته Zalcchain </translation>
     </message>
     <message>
         <source>Bind to given address and always listen on it. Use [host]:port notation for IPv6</source>

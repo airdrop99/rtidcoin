@@ -16,14 +16,14 @@ BEGIN
     BEGIN
         BLOCK "040904E4" // U.S. English - multilingual (hex)
         BEGIN
-            VALUE "CompanyName",        "Rtidcoin"
-            VALUE "FileDescription",    "rtidcoin-tx (CLI Rtidcoin transaction editor utility)"
+            VALUE "CompanyName",        "Zalcchain"
+            VALUE "FileDescription",    "zalcchain-tx (CLI Zalcchain transaction editor utility)"
             VALUE "FileVersion",        VER_FILEVERSION_STR
-            VALUE "InternalName",       "rtidcoin-tx"
+            VALUE "InternalName",       "zalcchain-tx"
             VALUE "LegalCopyright",     COPYRIGHT_STR
             VALUE "LegalTrademarks1",   "Distributed under the MIT software license, see the accompanying file COPYING or http://www.opensource.org/licenses/mit-license.php."
-            VALUE "OriginalFilename",   "rtidcoin-tx.exe"
-            VALUE "ProductName",        "rtidcoin-tx"
+            VALUE "OriginalFilename",   "zalcchain-tx.exe"
+            VALUE "ProductName",        "zalcchain-tx"
             VALUE "ProductVersion",     VER_PRODUCTVERSION_STR
         END
     END

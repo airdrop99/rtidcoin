@@ -112,7 +112,7 @@ bitcoin: URIs onto the Bitcoin-Qt window to start
 payment.
 
 
-PRRTIDMINARY SUPPORT FOR MULTISIGNATURE TRANSACTIONS
+PRZALCMINARY SUPPORT FOR MULTISIGNATURE TRANSACTIONS
 
 This release has preliminary support for multisignature
 transactions-- transactions that require authorization

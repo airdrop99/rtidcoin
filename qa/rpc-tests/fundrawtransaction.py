@@ -206,9 +206,9 @@ class RawTransactionsTest(BitcoinTestFramework):
 
         try:
             self.nodes[2].fundrawtransaction(rawtx, {'changeAddress': 'foobar'})
-            raise AssertionError("Accepted invalid rtidcoin address")
+            raise AssertionError("Accepted invalid zalcchain address")
         except JSONRPCException as e:
-            assert("changeAddress must be a valid rtidcoin address" in e.error['message'])
+            assert("changeAddress must be a valid zalcchain address" in e.error['message'])
 
 
         ############################################################

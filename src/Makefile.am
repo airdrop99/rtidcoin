@@ -66,11 +66,11 @@ TESTS =
 BENCHMARKS =
 
 if BUILD_BITCOIND
-  bin_PROGRAMS += rtidcoind
+  bin_PROGRAMS += zalcchaind
 endif
 
 if BUILD_BITCOIN_UTILS
-  bin_PROGRAMS += rtidcoin-cli rtidcoin-tx
+  bin_PROGRAMS += zalcchain-cli zalcchain-tx
 endif
 
 .PHONY: FORCE check-symbols check-security
@@ -362,16 +362,16 @@ nodist_libbitcoin_util_a_SOURCES = $(srcdir)/obj/build.h
 #
 
 # bitcoind binary #
-rtidcoind_SOURCES = bitcoind.cpp
-rtidcoind_CPPFLAGS = $(AM_CPPFLAGS) $(BITCOIN_INCLUDES)
-rtidcoind_CXXFLAGS = $(AM_CXXFLAGS) $(PIE_FLAGS)
-rtidcoind_LDFLAGS = $(RELDFLAGS) $(AM_LDFLAGS) $(LIBTOOL_APP_LDFLAGS)
+zalcchaind_SOURCES = bitcoind.cpp
+zalcchaind_CPPFLAGS = $(AM_CPPFLAGS) $(BITCOIN_INCLUDES)
+zalcchaind_CXXFLAGS = $(AM_CXXFLAGS) $(PIE_FLAGS)
+zalcchaind_LDFLAGS = $(RELDFLAGS) $(AM_LDFLAGS) $(LIBTOOL_APP_LDFLAGS)
 
 if TARGET_WINDOWS
-rtidcoind_SOURCES += bitcoind-res.rc
+zalcchaind_SOURCES += bitcoind-res.rc
 endif
 
-rtidcoind_LDADD = \
+zalcchaind_LDADD = \
   $(LIBBITCOIN_SERVER) \
   $(LIBBITCOIN_COMMON) \
   $(LIBUNIVALUE) \
@@ -384,38 +384,38 @@ rtidcoind_LDADD = \
   $(LIBMEMENV) \
   $(LIBSECP256K1)
 
-rtidcoind_LDADD += $(BOOST_LIBS) $(BDB_LIBS) $(SSL_LIBS) $(CRYPTO_LIBS) $(MINIUPNPC_LIBS) $(EVENT_PTHREADS_LIBS) $(EVENT_LIBS) $(ZMQ_LIBS)
+zalcchaind_LDADD += $(BOOST_LIBS) $(BDB_LIBS) $(SSL_LIBS) $(CRYPTO_LIBS) $(MINIUPNPC_LIBS) $(EVENT_PTHREADS_LIBS) $(EVENT_LIBS) $(ZMQ_LIBS)
 
 # bitcoin-cli binary #
-rtidcoin_cli_SOURCES = bitcoin-cli.cpp
-rtidcoin_cli_CPPFLAGS = $(AM_CPPFLAGS) $(BITCOIN_INCLUDES) $(EVENT_CFLAGS)
-rtidcoin_cli_CXXFLAGS = $(AM_CXXFLAGS) $(PIE_FLAGS)
-rtidcoin_cli_LDFLAGS = $(RELDFLAGS) $(AM_LDFLAGS) $(LIBTOOL_APP_LDFLAGS)
+zalcchain_cli_SOURCES = bitcoin-cli.cpp
+zalcchain_cli_CPPFLAGS = $(AM_CPPFLAGS) $(BITCOIN_INCLUDES) $(EVENT_CFLAGS)
+zalcchain_cli_CXXFLAGS = $(AM_CXXFLAGS) $(PIE_FLAGS)
+zalcchain_cli_LDFLAGS = $(RELDFLAGS) $(AM_LDFLAGS) $(LIBTOOL_APP_LDFLAGS)
 
 if TARGET_WINDOWS
-rtidcoin_cli_SOURCES += bitcoin-cli-res.rc
+zalcchain_cli_SOURCES += bitcoin-cli-res.rc
 endif
 
-rtidcoin_cli_LDADD = \
+zalcchain_cli_LDADD = \
   $(LIBBITCOIN_CLI) \
   $(LIBUNIVALUE) \
   $(LIBBITCOIN_UTIL) \
   $(LIBBITCOIN_CRYPTO)
 
-rtidcoin_cli_LDADD += $(BOOST_LIBS) $(SSL_LIBS) $(CRYPTO_LIBS) $(EVENT_LIBS)
+zalcchain_cli_LDADD += $(BOOST_LIBS) $(SSL_LIBS) $(CRYPTO_LIBS) $(EVENT_LIBS)
 #
 
 # bitcoin-tx binary #
-rtidcoin_tx_SOURCES = bitcoin-tx.cpp
-rtidcoin_tx_CPPFLAGS = $(AM_CPPFLAGS) $(BITCOIN_INCLUDES)
-rtidcoin_tx_CXXFLAGS = $(AM_CXXFLAGS) $(PIE_FLAGS)
-rtidcoin_tx_LDFLAGS = $(RELDFLAGS) $(AM_LDFLAGS) $(LIBTOOL_APP_LDFLAGS)
+zalcchain_tx_SOURCES = bitcoin-tx.cpp
+zalcchain_tx_CPPFLAGS = $(AM_CPPFLAGS) $(BITCOIN_INCLUDES)
+zalcchain_tx_CXXFLAGS = $(AM_CXXFLAGS) $(PIE_FLAGS)
+zalcchain_tx_LDFLAGS = $(RELDFLAGS) $(AM_LDFLAGS) $(LIBTOOL_APP_LDFLAGS)
 
 if TARGET_WINDOWS
-rtidcoin_tx_SOURCES += bitcoin-tx-res.rc
+zalcchain_tx_SOURCES += bitcoin-tx-res.rc
 endif
 
-rtidcoin_tx_LDADD = \
+zalcchain_tx_LDADD = \
   $(LIBUNIVALUE) \
   $(LIBBITCOIN_COMMON) \
   $(LIBBITCOIN_UTIL) \
@@ -423,7 +423,7 @@ rtidcoin_tx_LDADD = \
   $(LIBBITCOIN_CRYPTO) \
   $(LIBSECP256K1)
 
-rtidcoin_tx_LDADD += $(BOOST_LIBS) $(CRYPTO_LIBS)
+zalcchain_tx_LDADD += $(BOOST_LIBS) $(CRYPTO_LIBS)
 #
 
 # bitcoinconsensus library #

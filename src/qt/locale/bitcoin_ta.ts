@@ -90,8 +90,8 @@
         <translation>&amp;செய்தியை சரிசெய்...</translation>
     </message>
     <message>
-        <source>Rtidcoin</source>
-        <translation>Rtidcoin</translation>
+        <source>Zalcchain</source>
+        <translation>Zalcchain</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -708,8 +708,8 @@
 <context>
     <name>bitcoin-core</name>
     <message>
-        <source>Rtidcoin Core</source>
-        <translation>Rtidcoin மையம்</translation>
+        <source>Zalcchain Core</source>
+        <translation>Zalcchain மையம்</translation>
     </message>
     <message>
         <source>(default: %u)</source>

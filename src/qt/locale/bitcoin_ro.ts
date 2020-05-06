@@ -142,8 +142,8 @@
         <translation>Deschide &amp;URI...</translation>
     </message>
     <message>
-        <source>Send coins to a Rtidcoin address</source>
-        <translation>Trimite monedele către o adresă Rtidcoin</translation>
+        <source>Send coins to a Zalcchain address</source>
+        <translation>Trimite monedele către o adresă Zalcchain</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -166,8 +166,8 @@
         <translation>&amp;Verifică mesajul...</translation>
     </message>
     <message>
-        <source>Rtidcoin</source>
-        <translation>Rtidcoin</translation>
+        <source>Zalcchain</source>
+        <translation>Zalcchain</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -194,12 +194,12 @@
         <translation>Criptează cheile private care aparțin portofelului tău.</translation>
     </message>
     <message>
-        <source>Sign messages with your Rtidcoin addresses to prove you own them</source>
-        <translation>Semnează mesajele cu adresa ta de Rtidcoin pentru a face dovada că îți aparțin.</translation>
+        <source>Sign messages with your Zalcchain addresses to prove you own them</source>
+        <translation>Semnează mesajele cu adresa ta de Zalcchain pentru a face dovada că îți aparțin.</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Rtidcoin addresses</source>
-        <translation>Verifică mesajele cu scopul de a asigura faptul că au fost semnate cu adresa de Rtidcoin specificată.</translation>
+        <source>Verify messages to ensure they were signed with specified Zalcchain addresses</source>
+        <translation>Verifică mesajele cu scopul de a asigura faptul că au fost semnate cu adresa de Zalcchain specificată.</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -214,12 +214,12 @@
         <translation>&amp;Ajutor</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and rtidcoin: URIs)</source>
-        <translation>Cerere plată (generează coduri QR și rtidcoin: URIs)</translation>
+        <source>Request payments (generates QR codes and zalcchain: URIs)</source>
+        <translation>Cerere plată (generează coduri QR și zalcchain: URIs)</translation>
     </message>
     <message>
-        <source>Open a rtidcoin: URI or payment request</source>
-        <translation>Deschide un rtidcoin: URI sau cerere de plată</translation>
+        <source>Open a zalcchain: URI or payment request</source>
+        <translation>Deschide un zalcchain: URI sau cerere de plată</translation>
     </message>
     <message>
         <source>%1 behind</source>
@@ -748,8 +748,8 @@
 <context>
     <name>bitcoin-core</name>
     <message>
-        <source>Rtidcoin Core</source>
-        <translation>Rtidcoin Core</translation>
+        <source>Zalcchain Core</source>
+        <translation>Zalcchain Core</translation>
     </message>
     <message>
         <source>Information</source>

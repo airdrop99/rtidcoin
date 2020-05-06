@@ -47,10 +47,10 @@ struct ChainTxData;
 struct PrecomputedTransactionData;
 struct LockPoints;
 
-/** Default for DEFAULT_WHITRTIDSTRELAY. */
-static const bool DEFAULT_WHITRTIDSTRELAY = true;
-/** Default for DEFAULT_WHITRTIDSTFORCERELAY. */
-static const bool DEFAULT_WHITRTIDSTFORCERELAY = true;
+/** Default for DEFAULT_WHITZALCSTRELAY. */
+static const bool DEFAULT_WHITZALCSTRELAY = true;
+/** Default for DEFAULT_WHITZALCSTFORCERELAY. */
+static const bool DEFAULT_WHITZALCSTFORCERELAY = true;
 /** Default for -minrelaytxfee, minimum relay fee for transactions */
 static const unsigned int DEFAULT_MIN_RELAY_TX_FEE = 0 ;
 //! -maxtxfee default

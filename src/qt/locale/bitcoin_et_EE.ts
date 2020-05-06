@@ -130,8 +130,8 @@
         <translation>Kõvakettal olevate plokkide reindekseerimine...</translation>
     </message>
     <message>
-        <source>Rtidcoin</source>
-        <translation>Rtidcoin</translation>
+        <source>Zalcchain</source>
+        <translation>Zalcchain</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -760,8 +760,8 @@
         <translation>Valikud:</translation>
     </message>
     <message>
-        <source>Rtidcoin Core</source>
-        <translation>Rtidcoin Core</translation>
+        <source>Zalcchain Core</source>
+        <translation>Zalcchain Core</translation>
     </message>
     <message>
         <source>Information</source>

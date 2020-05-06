@@ -186,8 +186,8 @@
         <translation>Đánh chỉ số (indexing) lại các khối (blocks) trên ổ đĩa ...</translation>
     </message>
     <message>
-        <source>Send coins to a Rtidcoin address</source>
-        <translation>Gửi coins đến tài khoản Rtidcoin</translation>
+        <source>Send coins to a Zalcchain address</source>
+        <translation>Gửi coins đến tài khoản Zalcchain</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -206,8 +206,8 @@
         <translation>&amp;Tin nhắn xác thực</translation>
     </message>
     <message>
-        <source>Rtidcoin</source>
-        <translation>Rtidcoin</translation>
+        <source>Zalcchain</source>
+        <translation>Zalcchain</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -234,12 +234,12 @@
         <translation>Mã hoá các khoá bí mật trong Ví của bạn.</translation>
     </message>
     <message>
-        <source>Sign messages with your Rtidcoin addresses to prove you own them</source>
-        <translation>Dùng địa chỉ Rtidcoin của bạn ký các tin nhắn để xác minh những nội dung tin nhắn đó là của bạn.</translation>
+        <source>Sign messages with your Zalcchain addresses to prove you own them</source>
+        <translation>Dùng địa chỉ Zalcchain của bạn ký các tin nhắn để xác minh những nội dung tin nhắn đó là của bạn.</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Rtidcoin addresses</source>
-        <translation>Kiểm tra các tin nhắn để chắc chắn rằng chúng được ký bằng các địa chỉ Rtidcoin xác định.</translation>
+        <source>Verify messages to ensure they were signed with specified Zalcchain addresses</source>
+        <translation>Kiểm tra các tin nhắn để chắc chắn rằng chúng được ký bằng các địa chỉ Zalcchain xác định.</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -258,8 +258,8 @@
         <translation>Thanh công cụ (toolbar)</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and rtidcoin: URIs)</source>
-        <translation>Yêu cầu thanh toán(tạo mã QR và địa chỉ Rtidcoin: URLs)</translation>
+        <source>Request payments (generates QR codes and zalcchain: URIs)</source>
+        <translation>Yêu cầu thanh toán(tạo mã QR và địa chỉ Zalcchain: URLs)</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -270,8 +270,8 @@
         <translation>Hiện thỉ danh sách các địa chỉ và nhãn đã dùng để nhận.</translation>
     </message>
     <message>
-        <source>Open a rtidcoin: URI or payment request</source>
-        <translation>Mở rtidcoin:URL hoặc yêu cầu thanh toán</translation>
+        <source>Open a zalcchain: URI or payment request</source>
+        <translation>Mở zalcchain:URL hoặc yêu cầu thanh toán</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
@@ -536,8 +536,8 @@
         <translation>Ví</translation>
     </message>
     <message>
-        <source>Connect to the Rtidcoin network through a SOCKS5 proxy.</source>
-        <translation>Kết nối đến máy chủ Rtidcoin thông qua SOCKS5 proxy.</translation>
+        <source>Connect to the Zalcchain network through a SOCKS5 proxy.</source>
+        <translation>Kết nối đến máy chủ Zalcchain thông qua SOCKS5 proxy.</translation>
     </message>
     <message>
         <source>Proxy &amp;IP:</source>
@@ -1018,8 +1018,8 @@
         <translation>Lựa chọn:</translation>
     </message>
     <message>
-        <source>Rtidcoin Core</source>
-        <translation>Rtidcoin Core</translation>
+        <source>Zalcchain Core</source>
+        <translation>Zalcchain Core</translation>
     </message>
     <message>
         <source>(default: %u)</source>

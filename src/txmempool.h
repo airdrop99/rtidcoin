@@ -341,7 +341,7 @@ struct TxMempoolInfo
 enum class MemPoolRemovalReason {
     UNKNOWN = 0, //! Manually removed or unknown reason
     EXPIRY,      //! Expired from mempool
-    SIZRTIDMIT,   //! Removed in size limiting
+    SIZZALCMIT,   //! Removed in size limiting
     REORG,       //! Removed for reorganization
     BLOCK,       //! Removed for block
     CONFLICT,    //! Removed for conflict with in-block transaction

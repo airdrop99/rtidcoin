@@ -1,4 +1,4 @@
-## Build and install Rtidcoin on Ubuntu 16.04.x
+## Build and install Zalcchain on Ubuntu 16.04.x
 
 ```sh
 sudo apt-get update && sudo apt-get -y upgrade
@@ -8,7 +8,7 @@ sudo add-apt-repository -y ppa:bitcoin/bitcoin
 sudo apt-get update
 sudo apt-get -y install libdb4.8-dev libdb4.8++-dev
 git clone https://github.com/Rtid-Platfrom/Rtid-Platfrom.git
-cd rtidcoin
+cd zalcchain
 ./autogen.sh
 ./configure
 make

@@ -764,7 +764,7 @@ void SendCoinsDialog::coinControlChangeEdited(const QString& text)
         }
         else if (!addr.IsValid()) // Invalid address
         {
-            ui->labelCoinControlChangeLabel->setText(tr("Warning: Invalid Rtidcoin address"));
+            ui->labelCoinControlChangeLabel->setText(tr("Warning: Invalid Zalcchain address"));
         }
         else // Valid address
         {
