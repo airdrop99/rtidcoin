@@ -1,11 +1,10 @@
-# About Rtidcoin
-Rtidcoin is a CPU mineable cryptocurrency and open source software developed under MIT license. It can be mined on GPU too, but CPU mining is more efficient.
+# About Zalcchain
+Zalcchain is a CPU mineable cryptocurrency and open source software developed under MIT license. It can be mined on GPU too, but CPU mining is more efficient.
 
 # Wallets
-- [Download Rtidcoin Core wallet for Windows](https://github.com/Rtid-Platform/Rtid-Platform/releases/)
-- [Download Rtidcoin Core wallet for macOS](https://github.com/Rtid-Platform/Rtid-Platform/releases/)
-- [Download Rtidcoin Core wallet for Debian / Ubuntu Linux](https://github.com/Rtid-Platform/Rtid-Platform/releases/)
-- [Rtidcoin Paper Wallet Generator webpage](https://paper.rtidcoin.net)
+- [Download Zalcchain Core wallet for Windows](https://github.com/Rtid-Platform/Rtid-Platform/releases/)
+- [Download Zalcchain Core wallet for macOS](https://github.com/Rtid-Platform/Rtid-Platform/releases/)
+- [Download Zalcchain Core wallet for Debian / Ubuntu Linux](https://github.com/Rtid-Platform/Rtid-Platform/releases/)
 
 # Build Rtidcoin Core wallet from source codes
 
@@ -19,11 +18,11 @@ Rtidcoin is a CPU mineable cryptocurrency and open source software developed und
 # Coin specifications:
 &nbsp; | &nbsp;
 ------ | ------
-**Coin name:** | Rtidcoin (RTID)
-**Total number of coins:** | 125 000 000 RTID
-**Initial block reward:** | 10 RTID
-**Block halving:** | every 6 250 000 blocks
-**Average block time:** | 10 Second
+**Coin name:** | Rtidcoin (ZALC)
+**Total number of coins:** | 125 000 000 ZALC
+**Initial block reward:** | 50 RTID
+**Block halving:** | every 1 250 000 blocks
+**Average block time:** | 60 Second
 **Maximum transactions per block**: | 8400
 **Algorithm:** | YescryptR16 (CPU only)
 **Difficulty retarget:** | Every block (DarkGravityWave ver. 3)
@@ -32,7 +31,7 @@ Rtidcoin is a CPU mineable cryptocurrency and open source software developed und
 ## Advantages over Bitcoin:
 
 - Thanks to **YescryptR16** CPU only hashing algorithm, everyone can mine Rtidcoin on their own computer with just CPU. Mining on GPU is significantly slower than on CPU.
-- Transactions within Rtidcoin blockchain are **60 times faster** than Bitcoin.
+- Transactions within Zalcchain blockchain are **10 times faster** than Bitcoin.
 - Rtidcoin blockchain can handle **20 times more transactions** than Bitcoin within the same time.
 - Difficulty on Rtidcoin is **retargeted after every mined block** (aprox. every 10 second), compared to Bitcoin that retargets difficulty every 2016 blocks
 
