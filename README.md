@@ -18,7 +18,7 @@ Zalcchain is a CPU mineable cryptocurrency and open source software developed un
 # Coin specifications:
 &nbsp; | &nbsp;
 ------ | ------
-**Coin name:** | Rtidcoin (ZALC)
+**Coin name:** | Zalcchain (ZALC)
 **Total number of coins:** | 125 000 000 ZALC
 **Initial block reward:** | 50 RTID
 **Block halving:** | every 1 250 000 blocks
@@ -66,22 +66,22 @@ Rtidcoin is open source software developed under [**MIT license**](./LICENSE).
 # Contact info and links
 
 **Official links:**
-- [**Rtidcoin webpage**](https://rtid-platform.web.id)
-- [**Rtidcoin projects on GitHub**](https://github.com/Rtid-Platform)
-- [**Rtidcoin user support e-mail**](mailto:admin@rtid-platform.web.id)
+- [**Zalcchain webpage**](https://rtid-platform.web.id)
+- [**Zalcchain projects on GitHub**](https://github.com/Rtid-Platform)
+- [**Zalcchain user support e-mail**](mailto:admin@rtid-platform.web.id)
 
 **Community:**
-- [**Rtidcoin on BitcoinTalk**](https://bitcointalk.org/index.php?topic=3028302)
-- [**Rtidcoin on CryptocurrencyTalk**](https://cryptocurrencytalk.com/topic/98937-anneli-rtidcoin-cpu-mining-only-exchange-available/)
-- [**Rtidcoin on Facebook**](https://www.facebook.com/rtidcoin.net/)
-- [**Rtidcoin on Twitter**](https://twitter.com/rtidcoin)
-- [**Rtidcoin Discord server**](https://discord.gg/cv77fUp)
-- [**Rtidcoin Telegram announcements**](https://t.me/RTID_Platform)
-- [**Rtidcoin Telegram chat**](https://t.me/RTID_Official)
+- [**Zalcchain on BitcoinTalk**](https://bitcointalk.org/index.php?topic=3028302)
+- [**Zalcchain on CryptocurrencyTalk**](https://cryptocurrencytalk.com/topic/98937-anneli-rtidcoin-cpu-mining-only-exchange-available/)
+- [**Zalcchain on Facebook**](https://www.facebook.com/rtidcoin.net/)
+- [**Zalcchain on Twitter**](https://twitter.com/rtidcoin)
+- [**Zalcchain Discord server**](https://discord.gg/cv77fUp)
+- [**Zalcchain Telegram announcements**](https://t.me/RTID_Platform)
+- [**Zalcchain Telegram chat**](https://t.me/RTID_Official)
 
 **Block Explorer:**
-- [**Rtidcoin Block Explorer**](http://explorer.rtid-platform)
+- [**Zalcchain Block Explorer**](http://explorer.rtid-platform)
 
 **Mining tools:**
 - [**CPU Miner**](https://github.com/JayDDee/cpuminer-opt)
-- [**Rtidcoin Linux**](https://github.com/Rtid-Platform/linux)
+- [**Zalcchain Linux**](https://github.com/Zalcchain-Dev/linux)
